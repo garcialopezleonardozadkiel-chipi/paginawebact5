@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>La importancia del código en la vida</title>
+  <style>
+    body {
+      background-color: #e8f1fb;
+      font-family: Arial, sans-serif;
+      color: #1a1a1a;
+      margin: 40px;
+    }
+    h1 {
+      color: #0b3d91;
+    }
+    p {
+      font-size: 18px;
+      line-height: 1.6;
+    }
+  </style>
+</head>
+<body>
+  <h1>La importancia del código en la vida</h1>
+  <p>
+    El código está presente en casi todo lo que usamos a diario: el celular,
+    las redes sociales, los bancos, los autos y hasta los electrodomésticos.
+    Gracias a la programación podemos comunicarnos, estudiar, trabajar y
+    resolver problemas de forma más rápida. Aprender a programar nos ayuda a
+    pensar de manera lógica y a crear nuevas herramientas para mejorar nuestra vida.
+  </p>
+</body>
+</html>
